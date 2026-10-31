@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/sorting_test.dir/src_neon/main.c.o -o sorting_test 

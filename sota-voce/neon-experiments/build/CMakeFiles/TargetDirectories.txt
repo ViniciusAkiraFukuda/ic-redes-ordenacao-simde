@@ -1,0 +1,3 @@
+/home/viniciusfukuda/sota-voce/neon-experiments/build/CMakeFiles/sorting_test.dir
+/home/viniciusfukuda/sota-voce/neon-experiments/build/CMakeFiles/edit_cache.dir
+/home/viniciusfukuda/sota-voce/neon-experiments/build/CMakeFiles/rebuild_cache.dir

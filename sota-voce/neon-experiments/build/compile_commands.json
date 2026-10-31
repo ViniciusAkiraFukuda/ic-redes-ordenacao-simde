@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/viniciusfukuda/sota-voce/neon-experiments/build",
+  "command": "/usr/bin/cc  -I/home/viniciusfukuda/sota-voce/neon-experiments/simde -g -o CMakeFiles/sorting_test.dir/src_neon/main.c.o -c /home/viniciusfukuda/sota-voce/neon-experiments/src_neon/main.c",
+  "file": "/home/viniciusfukuda/sota-voce/neon-experiments/src_neon/main.c",
+  "output": "CMakeFiles/sorting_test.dir/src_neon/main.c.o"
+}
+]

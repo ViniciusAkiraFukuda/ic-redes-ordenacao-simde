@@ -1,0 +1,7 @@
+--- compilers/default
++++ compilers/default-x86-64
+@@ -1,2 +1,2 @@
+-gcc -Wall -fPIC -fwrapv -O -fvisibility=hidden
+-clang -Wall -fPIC -fwrapv -Qunused-arguments -O -fvisibility=hidden
++gcc -Wall -fPIC -fwrapv -O -fvisibility=hidden -arch x86_64
++clang -Wall -fPIC -fwrapv -Qunused-arguments -O -fvisibility=hidden -arch x86_64
